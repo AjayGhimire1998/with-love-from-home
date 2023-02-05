@@ -1,0 +1,6 @@
+[submodule "with-love-from-home-frontend"]
+	path = with-love-from-home-frontend
+	url = https://github.com/AjayGhimire1998/with-love-from-home-frontend
+[submodule "with-love-from-home-server"]
+	path = with-love-from-home-server
+	url = https://github.com/AjayGhimire1998/with-love-from-home-server
